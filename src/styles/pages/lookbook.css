@@ -1,0 +1,24 @@
+.lookbook-container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background-image: "/images/full-poster.png"
+  background-size: cover;
+  background-position: center;
+}
+
+.content-wrapper {
+  position: absolute;
+  bottom: 2rem;  /* Adjust as needed */
+  left: 2rem;    /* Adjust as needed */
+  z-index: 2;
+}
+
+.text-content {
+  margin-bottom: 1rem;  /* Space between text and buttons */
+}
+
+.button-group {
+  display: flex;
+  gap: 1rem;  /* Space between buttons */
+} 

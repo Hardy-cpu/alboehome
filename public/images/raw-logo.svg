@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="160" viewBox="0 0 400 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer ellipse -->
+  <ellipse cx="200" cy="80" rx="180" ry="60" stroke="white" stroke-width="4" fill="none"/>
+  
+  <!-- Text "alboe" -->
+  <text 
+    x="200" 
+    y="95" 
+    font-family="Arial" 
+    font-size="72" 
+    font-style="italic"
+    fill="white" 
+    text-anchor="middle"
+  >
+    alboe
+  </text>
+</svg>
